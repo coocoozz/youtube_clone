@@ -5,6 +5,7 @@ const VideoDetail = ({ video }) => (
   <section className={styles.detail}>
     <iframe
       className={styles.video}
+      title="youtube kwang player"
       type="text/html"
       width="100%"
       height="500px"
