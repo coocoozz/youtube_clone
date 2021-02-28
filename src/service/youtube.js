@@ -8,7 +8,6 @@ class Youtube {
       method: "GET",
       redirect: "follow",
     };
-    console.log(`key=${key}`);
   }
 
   async mostPopular() {
